@@ -1,4 +1,4 @@
-# ICDAR Large structured chinese family records layout (Task 2)
+# ICDAR Large Structured Chinese Family Records Layout (Task 2)
 
 # Description:
 The used method is based on U-net architecture [1]. The contracting path is derived from a standard ResNet-18 model. From contracting path, we have extracted features from three different depths having feature map’s size F1 (64x128x128), F2 (128x64x64), and F3 (256x32x32). In expanding path, the stacking of convolution (C(x,y) , with x kernels of size y), 
