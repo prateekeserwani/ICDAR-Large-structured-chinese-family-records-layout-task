@@ -8,7 +8,7 @@ ReLU activation (R), softmax (S), upsampling by factor x (Ux ), and feature map 
 ![Image description](ART.png?raw=true "Title")
 
 # Requirement: 
-* Pytorch = 0.4
+* Pytorch
 * Opencv 
 * Visdom
 * Torchvision 
