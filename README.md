@@ -6,3 +6,7 @@ ReLU activation (R), softmax (S), upsampling by factor x (Ux ), and feature map 
 . The learning rate is decreased by multiplicative factor of 0.1 after every 10k iterations. While prediction, we have taken the threshold of 0.7 for text pixels and remaining pixels are assigned as background.
 
 ![Image description](ART.png?raw=true "Title")
+
+
+# weights 
+[https://drive.google.com/file/d/1lWJIsxGjt6L6Vs2uiKTum-eMB4P-QpGA/view?usp=sharing]
