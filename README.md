@@ -13,8 +13,7 @@ ReLU activation (R), softmax (S), upsampling by factor x (Ux ), and feature map 
 * Visdom
 * Torchvision 
 
-
-# weights: 
+# Weights: 
 [https://drive.google.com/file/d/1lWJIsxGjt6L6Vs2uiKTum-eMB4P-QpGA/view?usp=sharing]
 
 # References:
