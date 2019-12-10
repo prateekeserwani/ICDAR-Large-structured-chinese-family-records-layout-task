@@ -9,9 +9,13 @@ ReLU activation (R), softmax (S), upsampling by factor x (Ux ), and feature map 
 
 # Requirement 
 Pytorch = 0.4
+
 opencv 
+
 visdom
+
 torchvision 
+
 
 # weights 
 [https://drive.google.com/file/d/1lWJIsxGjt6L6Vs2uiKTum-eMB4P-QpGA/view?usp=sharing]
