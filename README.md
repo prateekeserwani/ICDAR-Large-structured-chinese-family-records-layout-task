@@ -14,5 +14,6 @@ ReLU activation (R), softmax (S), upsampling by factor x (Ux ), and feature map 
 # References
 [1] Ronneberger, Olaf, Philipp Fischer, and Thomas Brox. "U-net: Convolutional networks for Biomedical Image
 Segmentation." ​ International Conference on Medical Image Computing and Computer-assisted Intervention ​ , 2015.
+
 [2] Milletari, Fausto, Nassir Navab, and Seyed-Ahmad Ahmadi. "V-net: Fully Convolutional Neural Networks for
 Volumetric Medical Image Segmentation." ​ Fourth International Conference on 3D Vision (3DV) . ​ 2016.
